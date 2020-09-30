@@ -1,7 +1,7 @@
 ---
 title: String,StringBuffer与StringBulider的联系与区别
-tags:  java
-categories: java
+tags:  java基础
+categories: java基础
 date: 2019-11-19 20:28:27
 ---
 首先大概讲述一下java中的数据类型，java的数据类型分为基本数据类型和引用数据类型。基本数据类型：int(整形)、short(短整型)、long(长整型)、boolean(布尔型)、char(字符型)、byte(字节型)、float(浮点型)、double(双精度浮点型)。引用类型分为数组，类(class)和接口(interface)。

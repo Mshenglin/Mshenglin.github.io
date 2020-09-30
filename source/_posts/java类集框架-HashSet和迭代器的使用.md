@@ -2,7 +2,7 @@
 title: java类集框架-HashSet和迭代器的使用
 date: 2019-08-07 22:40:04
 tags: java
-categories: 类集
+categories: java类集
 ---
 
 上一篇博客主要讲述了Collection接口中的List集合以及他的子类。今天说明一下Collection另外两个重要的子类Set和Queue。
@@ -273,6 +273,7 @@ Student [name=D, age=20]
                     }
 
   
+
 
 
   打印输出的结果

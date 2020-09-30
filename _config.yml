@@ -5,7 +5,7 @@
 # Site
 title: 马生林的博客
 subtitle:  拥抱阳光。
-description:  Hello stranger！ 
+description:  书到用时方恨少，事非经过不知难
 keywords: 
 author: 马生林
 language: zh-CN
@@ -89,8 +89,3 @@ deploy:
   repository: git@github.com:Mshenglin/Mshenglin.github.io.git
   branch: master
 
-backup:
-    type: git
-    repository:
-       github: git@github.com:Mshenglin/Mshenglin.github.io.git,backups
-       gitcafe: git@github.com:Mshenglin/Mshenglin.github.io.git,backups

@@ -1,14 +1,13 @@
 ---
 title: java类集框架总结-结构梳理与List集合
 date: 2019-08-03 15:33:15
-tags: java
-categories: 类集
+tags: java基础
+categories: java类集
 ---
 
 数据结构是以某种形式将数据组织在一起的集合，它不仅存储数据，还支持访问和处理数据的操作。Java提供了几个能有效地组织和操作数据的数据结构，这些数据结构通常称为Java集合框架。学习这些集合框架可以让我们大大的提高我们的开发效率。接下来就讲解一些常用的类集框架。
 
 <h3>类集框架的结构</h3>
-
 **常用类集框架结构**
 
 ![](1.jpg)
@@ -21,7 +20,6 @@ categories: 类集
 ![](2.jpg)
 
 <h4>List集合</h4>
-
 **List集合的特征**
 
 >1. 所有的List中只能容纳单个不同类型的对象组成的表，而不是Key－Value键值对。例如：[ 1,c]；
@@ -30,7 +28,6 @@ categories: 类集
 >4. 基于Array的List（Vector，ArrayList）适合查询，而LinkedList（链表）适合添加，删除操作。
 
 <h5>List子类———ArrayList</h5>
-
 Arraylist是基于数组实现的。相对于数组ArrayList的优点就是可以实现动态性，容量是可变的。
 
 **ArrayList的使用方法**
@@ -54,11 +51,9 @@ ArraySet常用的方法
 + isEmpty()  判断该列表是否为空
 
 <h5>List子类——Vecotor</h5>
-
 Vecotor类与ArrayList都是基于数组实现的。他们的使用非常类似。这里就不重复了。这里ArrayList与Vecotor的不同，Vecotor是同步的，因此线程安全。相反ArrayList更适合单线程。
 
 <h5>List子类——LinkedList</h5>
-
 LinkedList使用与其他两个也是雷同，大家可以通过jdk查看他的ApI。
 
 优缺点及特点

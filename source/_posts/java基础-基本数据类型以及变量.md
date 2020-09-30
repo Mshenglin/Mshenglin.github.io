@@ -2,7 +2,7 @@
 title: java基础--基本数据类型以及变量
 date: 2020-01-14 20:07:25
 tags: java
-categories: javase核心卷轴1
+categories: java基础
 ---
 
 
