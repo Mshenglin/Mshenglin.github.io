@@ -1,6 +1,6 @@
 ---
 title:  通过java实现，随机产生一组数据且不重复
-tags:   java基础
+tags:   [java]
 categories:  java基础
 date:  2019-08-20 20:39:00
 ---

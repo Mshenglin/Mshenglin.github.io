@@ -1,7 +1,7 @@
 ---
 title: 入门JDBC---使用Java实现数据库的基本操作
 tags: java
-categories: java
+categories: java基础
 date: 2019-09-25 17:14:00
 ---
 

@@ -2,7 +2,7 @@
 title: final关键字
 date: 2019-12-12 10:45:21
 tags: java
-categories: javase
+categories: java基础
 ---
 
 ## final关键字

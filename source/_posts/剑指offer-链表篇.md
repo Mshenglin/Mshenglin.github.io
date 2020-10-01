@@ -1,7 +1,7 @@
 ---
 title: 剑指offer--链表篇
 date: 2020-03-26 08:32:30
-tags: 数据结构与算法
+tags: [数据结构与算法,算法]
 categories:	算法
 ---
 
